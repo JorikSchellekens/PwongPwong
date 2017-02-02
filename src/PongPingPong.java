@@ -11,7 +11,6 @@ public class PongPingPong extends PApplet {
   private Force gravity;
   private boolean gameFinished = false;
   public boolean gamePaused = true;
-  public boolean spacePressed = false;
   public int timeSinceSpacePressed;
   private String gameOverMessage;
 
