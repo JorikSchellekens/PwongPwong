@@ -20,6 +20,7 @@ public class PongPingPong extends PApplet {
 
   public void settings() {
     size(Constants.SCREEN_X, Constants.SCREEN_Y);
+    //fullScreen(0);
   }
 
   public void setup() {
