@@ -19,7 +19,6 @@ public class Player extends Paddle {
 
   @Override
   public void draw() {
-
     paddleColor = new Color(parent.lerpColor(paddleColor.getRGB(), Constants.PLAYER_COLOR.getRGB(), (float) amt));
     super.draw();
   }

@@ -4,8 +4,8 @@ import java.awt.Color;
  * Created by Jorik on 25/01/2017.
  */
 public final class Constants {
-  final	static int SCREEN_X	=	1200;
-  final	static int SCREEN_Y	=	700;
+  final	static int SCREEN_X	=	600;
+  final	static int SCREEN_Y	=	500;
   final static int FRAME_RATE = 100;
   final	static int MARGIN	=	20;
   final static int PADDLE_HEIGHT = 10;
