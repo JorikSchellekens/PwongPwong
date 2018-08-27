@@ -30,7 +30,7 @@ public class PongPingPong extends PApplet {
     noStroke();
     textFont(createFont("Impact", 80));
 
-    player = new Player(width - Constants.MARGIN - Constants.PADDLE_HEIGHT, this);
+    player = new Player(height - Constants.MARGIN - Constants.PADDLE_HEIGHT, this);
     computer = new Computer(Constants.MARGIN, this);
     ball = new Ball(this, 20);
     computer.setTarget(ball);
