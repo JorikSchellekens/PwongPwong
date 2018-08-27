@@ -10,3 +10,6 @@ This game was made as a project during my first year in Trinity College Dublin
 
 ## Installation
 Clone and compile with processing-core.
+
+## Side note
+I really don't like processing but it does work. I'll let it stand.
